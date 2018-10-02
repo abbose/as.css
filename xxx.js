@@ -52,7 +52,7 @@ function logout() {
 }
 $(_0x43a2[3])[_0x43a2[2]](_0x43a2[1]), $(_0x43a2[6])[_0x43a2[5]](_0x43a2[4]), $(_0x43a2[8])[_0x43a2[5]](_0x43a2[7]), $(_0x43a2[10])[_0x43a2[5]](_0x43a2[9]);
 var _333x390f = '_0x390f',
-	_0x9d04 = ['hide', '.a3', 'click', 'div#tlogins .btn.btn-primary', 'div#tlogins', 'insertBefore', '', 'ul.nav.nav-tabs', '<img style="width: 100%;height: 165px;" class="fl a4" alt="" src=" هنا  صورة  ">'];
+	_0x9d04 = ['hide', '.a3', 'click', 'div#tlogins .btn.btn-primary', 'div#tlogins', 'insertBefore', '', 'ul.nav.nav-tabs', '<img style="width: 100%;height: 165px;" class="fl a4" alt="" src="https://a.top4top.net/p_1005ia8ia1.gif">'];
 $(_0x9d04[3])[_0x9d04[2]](function() {
 	$(_0x9d04[1])[_0x9d04[0]]()
 }), $(_0x9d04[6])[_0x9d04[5]](_0x9d04[4]), $(_0x9d04[8])[_0x9d04[5]](_0x9d04[7]), $(`<style>@font-face{font-family:'jazeera';src: url('https://www.fontstatic.com/fonts/jazeera/jazeera.eot?#iefix');src: local('ط§ظ„ط¬ط²ظٹط±ط©'), local('jazeera'),url('https://www.fontstatic.com/fonts/jazeera/jazeera.woff') format('woff');}\r\n@font-face{font-family:'jazeera-light';src: url('https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.eot?#iefix');src: local('ط§ظ„ط¬ط²ظٹط±ط© ط®ظپظٹظپ'), local('jazeera-light'),url('https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.woff') format('woff');}</style>`).insertBefore('div#tlogins .lonline.light.break');
