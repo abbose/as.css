@@ -1,4 +1,62 @@
-{
+}
+
+.audio-player img {
+    position: relative;
+    width: 50px;
+    height:50px;
+    border-radius: 3px  #e0505e;
+}
+.audio-player h1 {
+    position: absolute;
+    top: 10px;
+    left: 140px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 10px;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.5);
+}
+
+.mejs-controls div.mejs-horizontal-volume-slider {
+    position: absolute;
+    top: 35px;
+    left: 130px;
+    cursor: pointer;
+}
+.mejs-controls .mejs-mute button, .mejs-controls .mejs-unmute button {
+    width: 14px;
+    height: 12px;
+    top: 35px;
+    left: 106px;
+    background: transparent url(/images/mute-unmute.png) 0 0;
+}
+.mejs-controls .mejs-pause button, .mejs-controls .mejs-play button {
+    width: 21px;
+    height: 21px;
+    top: 10px;
+    left: 100px;
+    background: transparent url(/images/play-pause.png) 0 0;
+} 
+
+img#main-footer-top-request-mic {
+    visibility: hidden;
+}
+img#main-footer-top-stop-sound {
+    visibility: hidden;
+    MARGIN-LEFT: -50PX;
+}
+
+.chat__body__message-input__input {
+    width: calc(100% - 5.1rem);
+    margin: 0 .2rem 0 .1rem;
+    vertical-align: middle;
+    padding: .1em .3em;
+    vertical-align: bottom;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#online_users .chat_pane__user_item__avatar img {
     border-radius: .5rem 0 .5rem 0;
     border-width: 1px!important;
     padding: 0px;
@@ -91,8 +149,8 @@
 
 
 .login-banner__img {
-    width: 60%;
-   
+    width: 100%;
+    max-height: 150px;
 }
 
 .user_profile__body__avatar {
@@ -281,15 +339,15 @@ FONT-FAMILY: 'Changa', cursive,FontAwesome;
 
 #login-form__hidden-label {
        font-size: .6rem;
-    margin-top: -68px!important;
-    margin-left: 140px!important;
+    margin-top: -18px!important;
+    margin-left: 200px!important;
     position: fixed;
     float: right;
     color: white;
 }
 input[type=checkbox], input[type=radio] {
-         margin-top: 10px!important;
-    margin-left: -50px!important;
+         margin-top: -15px!important;
+    margin-left: -220px!important;
     position: fixed;
     float: right;
 
@@ -434,12 +492,13 @@ div {
     background:radial-gradient(circle,#525e69,#38424a,#c4c4c580)!important;
     font-family: 'Aref Ruqaa', serif;
  }
- .btn-primary, .label-primary {
- 
 
+ .btn-primary, .label-primary {
  background-size: 60px;
 background: radial-gradient(circle,#525e69,#38424a,#c4c4c580)!important;
  }
+
+
  .btn { 
 padding: 0 .4em;
  outline: none;
@@ -663,10 +722,10 @@ outline: none;
 
  #chat__body__message-input { 
 position: absolute;
-    bottom: -40px;
+    bottom: -8px;
     left: 0;
     right: 0;
-    height: 2.6rem;
+    height: 1.4rem;
     text-align: center;
 background-color: #ccc;
  padding-top: .15em;
@@ -703,14 +762,14 @@ direction: rtl;
 
 
 #connection-state.connected {
-        position: absolute;
+    position: absolute;
     font-size: .55rem;
     background-color: #6c757d;
     color: #fff;
     padding: .2em 1.4em;
     border-radius: .5em;
-    left: 10.0rem;
-    top: -5.3rem;
+    left: 10.5rem;
+    top: -0.99rem;
     height: 0.80rem;
     line-height: 1;
 }
