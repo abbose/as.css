@@ -1,14 +1,6 @@
-$('<img src="https://5.top4top.net/p_1222zojvo1.jpg" style="width:70px;margin-top:-95px; " class="fr">').insertBefore('.loginstat');
 
-$(`<img tabindex="0" class="al120 fl " style="margin-left: -4px; padding:5px; width:40px;margin-top: -4px;" src="http://reem-design.000webhostapp.com/z1d7d4d70v10.png" data-original-title="" title=""><img tabindex="0" class="al121 fl " style="padding:5px;width: 33px;margin-top: 0px;margin-left: -6px;" src="https://www.iraqiachat.net/sico/z1d7d4ctg910.png" data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
-$(".al120").click(function(){
-alert("عذرا لا تملك الصلاحية للدخول الى غرف محادثات الفيديو أطلب من( فـهـد) ادخالك الروم ");
-});
-$(".al121").click(function(){
-alert("عذرا لا تملك صلاحيات استخدام المحادثات الصوتيه ");
-});
 
-$(`<img src="https://www.jfa-w.net/sico/z1da4s0t7310.gif" class="fr" style="width:100%;margin-right: 1px;">
+$(`<img src="https://5.top4top.net/p_1222zojvo1.jpg" class="fr" style="width:100%;margin-right: 1px;">
 
 <div><marquee direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2">    شات بنات اهلنا للجوال السعادة تجمعنا  ●· في حال ظهر لك تم حظرك الرجاء قم بـ اغلاق برنامج تغيير الايبي / الدوله والدخول مره اخرى ● · لا تدع الدردشة تلهيك عن صلاتك ولا تستخدم الشات في ما لا يرضي الله  </marquee></div>
 <div id="asim10"><center><a id="asim33" href="mobile.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">التطبيق</a><a id="asim33" href="sub.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">اشتراكات</a>
