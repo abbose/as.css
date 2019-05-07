@@ -13,7 +13,7 @@ $(`<img src="https://www.up-00.com/i/00123/vmh4fsd4xpoa.jpg" class="fr" style="w
 </p> لشـكاوي او الاقتـراحات .. <p>
 <img src="https://1.top4top.net/p_12221hrpa1.png">A199b5>₳ℬℬÕŠË</BR><img </BR>_________ </BR>
 <img src="https://2.top4top.net/p_12229hwgb1.png">abbose0>₳ℬℬÕŠË</BR><img </BR>_________ </BR>
-<img src="https://2.top4top.net/p_12229hwgb1.png"> ايفان </BR><img </BR>_________ </BR>
+<img src="https://2.top4top.net/p_12229hwgb1.png"> ايفان >k23424</BR><img </BR>_________ </BR>
 <img src="https://2.top4top.net/p_12229hwgb1.png"> كرو </BR><img </BR>_________ </BR>
 <link rel="stylesheet" href="https://raw.githack.com/abbose/as.js/master/001.css">
 <style>
