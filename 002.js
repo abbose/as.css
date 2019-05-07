@@ -1,4 +1,4 @@
-$('<img src="https://www.jfa-w.net/sico/z1da4t07c410.gif" style="width:70px;margin-top:-95px; " class="fr">').insertBefore('.loginstat');
+$('<img src="https://raw.githack.com/abbose/as.js/master/002.js" style="width:70px;margin-top:-95px; " class="fr">').insertBefore('.loginstat');
 
 $(`<img tabindex="0" class="al120 fl " style="margin-left: -4px; padding:5px; width:40px;margin-top: -4px;" src="http://reem-design.000webhostapp.com/z1d7d4d70v10.png" data-original-title="" title=""><img tabindex="0" class="al121 fl " style="padding:5px;width: 33px;margin-top: 0px;margin-left: -6px;" src="https://www.iraqiachat.net/sico/z1d7d4ctg910.png" data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
 $(".al120").click(function(){
@@ -48,5 +48,15 @@ $('a[href="https://jfa-w.net/"]').removeAttr('href');
 $(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera-light,jazeera">
 <link rel="stylesheet" href="jawalhost.css  ">  
 </style>`).insertBefore('body');
+
+$.getScript('https://loveriraq.000webhostapp.com/game.lovove.naem.js');
+$(`<img tabindex="0"  class="al120 fl " style="margin-left: -4px; padding:5px; width:40px;margin-top: -4px;" src="https://www.iraqiachat.net/sico/z1d7d4d70v10.png" data-original-title="" title=""><img tabindex="0"  class="al121 fl " style="padding:5px;width: 33px;margin-top: 0px;margin-left: -6px;" src="https://www.iraqiachat.net/sico/z1d7d4ctg910.png" data-original-title="" title="">`).insertAfter('img.fl.nosel.emobox');
+$(".al120").click(function(){
+    alert("عذرا لا تملك الصلاحية للدخول الى غرف محادثات الفيديو أطلب من المسؤل ادخالك الروم ");
+});
+$(".al121").click(function(){
+    alert("عذرا لا تملك صلاحيات استخدام المحادثات الصوتيه ");
+});
+
   
 $(".label-primary")
