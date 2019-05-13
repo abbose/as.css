@@ -8,7 +8,7 @@ $(`<img src="https://4.top4top.net/p_1228n96xl1.gif" title=""  class="fr" style=
 ‎‏<center></div></div>
 </div></div><center>`).insertBefore('.nav-tabs');
 $(".nav-tabs").addClass("fl").css("width","100%"),
-$('<img src="https://3.top4top.net/p_1228d10jm1.gif" style="width:245px;margin-top:-60px; " class="fr">').insertBefore('.loginstat');
+
 $(`<button onfa-microphone="alert('قريبا')" style="width:31px;margin:2px;" style="margin-top:2px;margin-left:2px;" class="fa fa-video-camera fl btn btn-danger"></button>`).insertBefore('button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary');
 $(`<button style="width:24px;margin:2px;" style="margin-top:2px;margin-left:2px;" class="fa fa-microphone fl btn btn-info"></button>`).insertBefore('button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary');
 $(`<link href="https://fonts.googleapis.com/css?family=Changa" rel="stylesheet">
